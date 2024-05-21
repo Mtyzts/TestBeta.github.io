@@ -1,0 +1,73 @@
+@font-face {
+    font-family: "SubTitle";
+    src: url(Adia_Demo.ttf);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+
+.Kepala {
+    font-size: 20px;
+    padding: 15px;
+    background-color: #00c8eb;
+    text-align: center;
+    color: rgb(38, 91, 100);
+}
+
+nav li {
+    display: inline;
+    list-style-type: none;
+    justify-content: center;
+    margin-right: 50px;
+    justify-items: center;
+}
+
+nav {
+    background-color: #00a2c6;
+    padding: 5px;
+ }
+
+ nav a {
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+   
+    color: white;
+  }
+
+
+main{
+    background-color: rgb(47, 188, 231);
+}
+
+#isa {
+    text-align: center;
+}
+
+.Isi {
+
+    background-color: whitesmoke;
+    padding: 10%;
+    white-space: 3em;
+    width: 350px;
+    height: 4pt;
+    margin: auto;
+    border: transparent;
+    box-shadow: 2px 2px 5px 2px black ;
+    border-radius: 20px 5px 20px 5px;
+}
+
+footer {
+    background-color: aquamarine;
+    height: 100%;
+    border: transparent ;
+}
+
+.Sul {
+
+    margin: 5%;
+    text-align: center;
+}
